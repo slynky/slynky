@@ -1,17 +1,5 @@
 ## Eae Internauta, eu sou o Kaua
 
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=slynky&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slynky&layout=compact&theme=dracula"/>
-  </a>
-</div>
-
-
-
 - 📗 Atualmente estudando Desenvolvimento de Sistemas em Coltec - UFMG
 - 💪 Faço academia e jogo basquete
 
